@@ -25,6 +25,7 @@ owen-hermes/
 ├── projects/
 │   └── market-analytics/     ← 쇼핑몰 분석 시스템 프로젝트
 │       └── plan.md
+├── daily/                    ← 일일 작업 일지 (YYYY-MM-DD.md)
 ├── decisions/                ← 주요 의사결정 로그 (날짜별)
 └── troubleshooting/          ← 오류 & 해결 히스토리
 ```
